@@ -2,9 +2,6 @@ echo.>.gitignore
 # Abaikan semua file .csv
 *.csv
 
-# Abaikan semua file .txt
-*.txt
-
 # Abaikan semua shortcut
 *.lnk
 
